@@ -14,9 +14,3 @@ User Input Handling (input())
 Conditional Statements (if, elif, else)
 Functions & Operators
 
- How to Run :
-Make sure Python 3 is installed on your computer.
-Clone or download this repository.
-Open terminal/command prompt in the project directory.
-Run the program using:
-python calculator.py
